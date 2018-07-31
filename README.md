@@ -1,4 +1,4 @@
-# lineup-spec
+# Spec Picker
 
 ## Project setup
 ```
