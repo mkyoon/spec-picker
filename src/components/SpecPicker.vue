@@ -34,12 +34,12 @@
                     </div>
                 </div>
             </div>
-            <div style="text-align:right; padding:1rem 0;">
+            <!-- <div style="text-align:right; padding:1rem 0;">
                 <button class="ui right labeled icon button">
                     <i class="right arrow icon"></i>
                     Next
                 </button>
-            </div>
+            </div> -->
         </div>
     </div>
 </template>
